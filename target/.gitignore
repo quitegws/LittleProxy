@@ -1,0 +1,10 @@
+/classes/
+/eclipse-classes/
+/test-classes/
+/surefire-reports/
+/maven-status/
+/maven-archiver/
+*.project
+*.classpath
+*.lst
+*.jar
